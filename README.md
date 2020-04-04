@@ -1,5 +1,3 @@
-# Sicp Racket Boilerplate
-
 ### Requirements
 
 * Racket
